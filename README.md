@@ -7,4 +7,4 @@
 - Deep Fake
 - Image Compression
 - Medical Image Analytics
-- 
+
